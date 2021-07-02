@@ -20,7 +20,7 @@
   "dependencies": {
     "@rabbotio/fetcher": "^1.4.0",
     "isomorphic-fetch": "^2.2.1",
-    "stellar-sdk": "^3.0.0"
+    "stellar-sdk": "^8.2.3"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
